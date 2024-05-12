@@ -1,0 +1,27 @@
+.Heading{
+    background: #e7e6e6;
+}
+.navbar-nav{
+    margin-left: 300px;
+}
+.btn-primary{
+    background: green;
+}
+
+
+
+/* slider-content-wrap */
+.slider-content-wrap{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.slider-section{
+    background: url("./video-img-template/aaaaaaaaaa.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100%;
+   width: 100%;
+
+
+}
